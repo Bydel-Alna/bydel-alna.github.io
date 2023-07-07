@@ -3,7 +3,7 @@
 This Privacy Policy governs the manner in which Bydel Alna, a government app, collects, uses, maintains, and discloses information collected from users (healthcare professionals). This policy applies to the app and all products and services offered by Bydel Alna.
 
 <h2>Personal Information Collection</h2>
-Bydel Alna collects the data provided through the URL that users scan to launch the app. This includes information such as the specific chapter or section the user should access within the app.
+Bydel Alna collects the data provided through the URL that users scan to launch the app. This includes information such as the specific chapter or section the user should access within the app. Not personal information.
 
 <h2>Data Collection Method</h2>
 The app collects the data from the URL that the user opens the app with. No additional personal information is collected within the app.
